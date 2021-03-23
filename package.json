@@ -1,0 +1,25 @@
+{
+  "name": "healing-planner",
+  "version": "0.1.0",
+  "description": "FFXIV healing planner",
+  "main": "cli.js",
+  "bin": {
+    "planner": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuwoyuki/healing-planner.git"
+  },
+  "author": "kuwoyuki <kuwoyuki@cock.li>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuwoyuki/healing-planner/issues"
+  },
+  "homepage": "https://github.com/kuwoyuki/healing-planner#readme",
+  "dependencies": {
+    "meow": "^9.0.0"
+  }
+}
